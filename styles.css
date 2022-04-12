@@ -24,7 +24,7 @@ body {
     font-weight: 700;
 }
 
-.texto__descrição {
+.texto__descricao {
     margin: 1em 0;
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 .primeiro {
-    background-color: antiquewhite;
+    background-color: rgb(238, 253, 255);
 }
 
 .segundo {
