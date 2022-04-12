@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+body {
+    height: 100vh;
+}
+
+.container {
+    height: 100%;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto__titulo {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.texto__codigo {
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    margin-top: 1em;
+    padding: 0 0.2em;
+    display: inline-block;
+}
+
+.primeiro {
+    background-color: antiquewhite;
+}
+
+.segundo {
+    background-color: cadetblue;
+}
